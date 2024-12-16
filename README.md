@@ -1,9 +1,9 @@
 
-📘 CS50x Problem Set Solutions
+📘  #CS50x Problem Set Solutions
 Bu repository, Harvard Üniversitesi'nin CS50x: Introduction to Computer Science kursundaki problem setlerinin çözümlerini içermektedir.
 
-🚀 İçindekiler
-Problem Set	Konu	Açıklama
+🚀 #İçindekiler
+##Problem Set	Konu	Açıklama
 Pset 1	C ile Programlamaya Giriş	Temel algoritmalar ve döngüler
 Pset 2	Kriptografi & Stringler	Caesar ve Vigenere şifreleme
 Pset 3	Algoritmalar	Sıralama ve arama algoritmaları
@@ -11,7 +11,7 @@ Pset 4	Hafıza Yönetimi	Bitmap ve veri yapıları
 Pset 5	Veri Yapıları	Hash tablolar ve trie yapısı
 Pset 6	Python'a Giriş	Python temelleri ve uygulamalar
 Pset 7	SQL & Veritabanları	SQL sorguları ve analiz
-🛠️ Kurulum
+🛠️ #Kurulum
 Bu repository'yi kendi bilgisayarınıza klonlamak için aşağıdaki adımı uygulayın:
 
 bash
@@ -41,10 +41,10 @@ CS50x-Problem-Sets/
 │   └── vigenere.c  
 │  
 └── README.md  
-🎓 CS50x Hakkında
+🎓 #CS50x Hakkında
 CS50x Harvard Üniversitesi'nin bilgisayar bilimine giriş kursudur. Kurs; programlama, algoritmalar, veri yapıları ve yazılım mühendisliğine giriş içeriklerini kapsamaktadır.
 
-📜 Lisans
+📜 #Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
 Bu şekilde dosyanızı düzenleyip ekleyebilirsiniz! 😊🚀
