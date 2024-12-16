@@ -1,5 +1,5 @@
 
-📘  #CS50x Problem Set Solutions
+📘  CS50x Problem Set Solutions
 Bu repository, Harvard Üniversitesi'nin CS50x: Introduction to Computer Science kursundaki problem setlerinin çözümlerini içermektedir.
 
 🚀 #İçindekiler
